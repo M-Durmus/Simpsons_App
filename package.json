@@ -20,7 +20,7 @@
     "web-vitals": "^2.1.4"
   },
   
-  "homepage": "https://M-Durmus.github.io/eteration_case/",
+  "homepage": "https://M-Durmus.github.io/",
 
   "scripts": {
     "start": "react-scripts start",
